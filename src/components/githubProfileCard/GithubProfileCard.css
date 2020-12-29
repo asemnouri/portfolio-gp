@@ -4,7 +4,7 @@
   margin-left: auto;
   width: 100%;
   max-width: 350px;
-  height: 80%;
+  height: 90%;
   box-shadow: rgba(0, 0, 0, 1) 0 30px 30px -30px;
   transition: all 0.3s ease-out;
 }
@@ -88,7 +88,7 @@
     margin-right: auto;
     width: 100%;
     max-width: 250px;
-    height: 200px;
+    height: 230px;
   }
 
   .profile-image:hover {
