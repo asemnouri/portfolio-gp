@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio-gp/static/css/main.6aa4299e.chunk.css",
-    "main.js": "/portfolio-gp/static/js/main.e4b13d15.chunk.js",
-    "main.js.map": "/portfolio-gp/static/js/main.e4b13d15.chunk.js.map",
-    "runtime-main.js": "/portfolio-gp/static/js/runtime-main.6d300357.js",
-    "runtime-main.js.map": "/portfolio-gp/static/js/runtime-main.6d300357.js.map",
+    "main.js": "/portfolio-gp/static/js/main.212ccf86.chunk.js",
+    "main.js.map": "/portfolio-gp/static/js/main.212ccf86.chunk.js.map",
+    "runtime-main.js": "/portfolio-gp/static/js/runtime-main.181d1c04.js",
+    "runtime-main.js.map": "/portfolio-gp/static/js/runtime-main.181d1c04.js.map",
     "static/js/2.4608231b.chunk.js": "/portfolio-gp/static/js/2.4608231b.chunk.js",
     "static/js/2.4608231b.chunk.js.map": "/portfolio-gp/static/js/2.4608231b.chunk.js.map",
-    "static/css/3.bb49c42e.chunk.css": "/portfolio-gp/static/css/3.bb49c42e.chunk.css",
-    "static/js/3.b06fbed0.chunk.js": "/portfolio-gp/static/js/3.b06fbed0.chunk.js",
-    "static/js/3.b06fbed0.chunk.js.map": "/portfolio-gp/static/js/3.b06fbed0.chunk.js.map",
+    "static/css/3.89014d37.chunk.css": "/portfolio-gp/static/css/3.89014d37.chunk.css",
+    "static/js/3.3dc27d6b.chunk.js": "/portfolio-gp/static/js/3.3dc27d6b.chunk.js",
+    "static/js/3.3dc27d6b.chunk.js.map": "/portfolio-gp/static/js/3.3dc27d6b.chunk.js.map",
     "index.html": "/portfolio-gp/index.html",
-    "precache-manifest.531e56f22c8c9fb1941043b5104c20cc.js": "/portfolio-gp/precache-manifest.531e56f22c8c9fb1941043b5104c20cc.js",
+    "precache-manifest.61ff3ce622e0fe4ca307da004751a62c.js": "/portfolio-gp/precache-manifest.61ff3ce622e0fe4ca307da004751a62c.js",
     "service-worker.js": "/portfolio-gp/service-worker.js",
-    "static/css/3.bb49c42e.chunk.css.map": "/portfolio-gp/static/css/3.bb49c42e.chunk.css.map",
+    "static/css/3.89014d37.chunk.css.map": "/portfolio-gp/static/css/3.89014d37.chunk.css.map",
     "static/css/main.6aa4299e.chunk.css.map": "/portfolio-gp/static/css/main.6aa4299e.chunk.css.map",
     "static/media/index.css": "/portfolio-gp/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/portfolio-gp/static/media/airbnbLogo.c59720d6.png",
@@ -39,9 +39,9 @@
     "static/media/talksCardBackAlt.svg": "/portfolio-gp/static/media/talksCardBackAlt.7f0feeed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d300357.js",
+    "static/js/runtime-main.181d1c04.js",
     "static/js/2.4608231b.chunk.js",
     "static/css/main.6aa4299e.chunk.css",
-    "static/js/main.e4b13d15.chunk.js"
+    "static/js/main.212ccf86.chunk.js"
   ]
 }
