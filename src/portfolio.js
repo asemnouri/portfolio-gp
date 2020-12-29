@@ -10,7 +10,7 @@ const greeting = {
   username: "Asem Nouri",
   title: "Hello, I am Asem",
   subTitle: emoji("Full-Stack developer who is really into programming and figuring out everything related to new technologies and how thingswork. I worked on many projects using ReactJS and some React-Native, and for the back-end Django and NodeJS."),
-  resumeLink: "https://drive.google.com/file/d/1efJC7quU7ioo3NtqU2gJlgE8EwOryBpi/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1Hn6eBj-5OfNljVp0R-6r7A7zZ3Qw5AUb/view",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -164,7 +164,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "saadpasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "asemnouri", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true",  // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
