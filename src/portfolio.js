@@ -293,15 +293,15 @@ const twitterDetails = {
 //project section
 const projects = [
   {
-    title: "Django-React Hospital",
-    description: "This is project done with Django-React that enables patients to preview hospital departments and doctor and the ability to book an appointment and live-chat with doctors using firebase-real-time database. Authentication done with JWT and bcrybt for passwords, there is also a MERN stack version  of this app with React-Native and the live-chat was using Sockit-io.",
+    title: "Acrux-Hospital",
+    description: "This project was done with Django-React, it enables patients to preview hospital departments, doctors, the ability to book an appointment & do live-chat with doctors using firebase-real-time database. Authentication was made with JWT with bcrypt for passwords,  there is also MERN stack version of this app, with React-Native & used Socket-io for the live-chat.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798725021892608/Capture.png",
     github: "https://github.com/asemnouri/ACRUX-Hospital-django",
     demo: "https://acrux-hospital.herokuapp.com/"
   },
   {
-    title: "MERN stack HotelCom",
-    description: "A MERN-stack project that allows you use a hotels API prewieing the hotels of a specifc city and country and being able to add it to bookmarks and add favorites, and in the profile page you will be able to make payments throw Stripe API, there also authentiction and authrisation using JWT and hashing the password using bcrybt.",
+    title: "HotelCom",
+    description: "A MERN-stack project that allows you to use a hotels API to view the hotels of a specifc city and country and being able to add it to bookmarks and add favorites, and in the profile page you will be able to make payments throw Stripe API, there also authentiction and authrisation using JWT and hashing the password using bcrybt.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798718402625576/Capture_1.png",
     github: "https://github.com/asemnouri/green-field-project",
     demo: "https://raptors-hotels.herokuapp.com/"
