@@ -294,7 +294,7 @@ const twitterDetails = {
 const projects = [
   {
     title: "Acrux-Hospital",
-    description: "This project was done with Django-React, it enables patients to preview hospital departments, doctors, the ability to book an appointment & do live-chat with doctors using firebase-real-time database. Authentication was made with JWT with bcrypt for passwords,  there is also MERN stack version of this app, with React-Native & used Socket-io for the live-chat, you can watch the Demo for the site uploaded here https://www.youtube.com/watch?v=gc1l4wHwoE4",
+    description: "This project was done with Django-React, it enables patients to preview hospital departments, doctors, the ability to book an appointment & do live-chat with doctors using firebase-real-time database. Authentication was made with JWT with bcrypt for passwords,  there is also MERN stack version of this app, with React-Native & used Socket-io for the live-chat.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798725021892608/Capture.png",
     github: "https://github.com/asemnouri/ACRUX-Hospital-django",
     demo: "https://acrux-hospital.herokuapp.com/"

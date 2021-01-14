@@ -37,10 +37,20 @@ export default function Skills() {
                     <div className="button-greeting-div">
                       <Button text="github code" href={project.github} />
                       <Button
-                        text="Live Demo"
+                        text="Website"
                         newTab={true}
                         href={project.demo}
                       />
+                      {project.title ==="Acrux-Hospital"?
+                      
+                      <Button
+                        text="live demo"
+                        newTab={true}
+                        href="https://www.youtube.com/watch?v=gc1l4wHwoE4"
+                      />
+                      :
+                      <></>
+                    }
                     </div>
                   </div>
                 </Fade>

@@ -12,7 +12,7 @@ function Header() {
     <Headroom>
       <header className={isDark ? 'dark-menu header' : 'header'}>
         <a href="" className="logo">
-          <span >{greeting.username}</span>
+          <span className="logo-name">{greeting.username}</span>
         </a>
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label
@@ -36,7 +36,7 @@ function Header() {
           </li>
           <li>
             <a>
-              <ToggleSwitch />
+              {/* <ToggleSwitch /> */}
             </a>
           </li>
         </ul>
