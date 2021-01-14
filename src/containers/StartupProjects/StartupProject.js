@@ -17,7 +17,7 @@ export default function Skills() {
             <div className={isDark ? "dark-mode main" : "main"} id="projects">
               <div className="skills-main-div">
                 <Fade left duration={1000}>
-                  <div className="skills-image-div" >
+                  <div className="skills-image-div1" >
                     <img
                       style={{ borderRadius: "30px" }}
                       alt="Saad Working"
