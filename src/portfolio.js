@@ -297,35 +297,43 @@ const projects = [
     description: "This project was done with Django-React, it enables patients to preview hospital departments, doctors, the ability to book an appointment & do live-chat with doctors using firebase-real-time database. Authentication was made with JWT with bcrypt for passwords,  there is also MERN stack version of this app, with React-Native & used Socket-io for the live-chat.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798725021892608/Capture.png",
     github: "https://github.com/asemnouri/ACRUX-Hospital-django",
-    demo: "https://acrux-hospital.herokuapp.com/"
+    demo: "https://acrux-hospital.herokuapp.com/",
+    technologies:["React,","Django,","Postgress,","Firebase,","Material-UI,",'SASS']
   },
   {
     title: "HotelCom",
     description: "A MERN-stack project that allows you to use a hotels API to view the hotels of a specifc city and country and being able to add it to bookmarks and add favorites, and in the profile page you will be able to make payments throw Stripe API, there also authentiction and authrisation using JWT and hashing the password using bcrybt.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798718402625576/Capture_1.png",
     github: "https://github.com/asemnouri/green-field-project",
-    demo: "https://raptors-hotels.herokuapp.com/"
+    demo: "https://raptors-hotels.herokuapp.com/",
+    technologies:["React,","MongoDB,","Express,","NodeJS,","Material-UI"]
   },
   {
     title: "E-commerce Crwn-Clothing",
     description: "This is a React-Redux project that is connected to firebase data base. It has  the ability to add items and remove them and it deals with Stripe-payments.It will   enable users to sign-in,sign-up,and register new users.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798722244476957/E-commerce.png",
     github: "https://github.com/asemnouri/crwn-clothing",
-    demo: "https://crwn-asem-deploy.herokuapp.com/"
+    demo: "https://crwn-asem-deploy.herokuapp.com/",
+    technologies:["React,","FireBase,","SASS"]
+
   },
   {
     title: "Explore Palestine",
     description: "A MERN stack project that enables the user book a trip and buy it throw stripe API and ability to chat between users, there is also an admin that has the ability to add new trips and delete users and make them admins. There is also the abilty to invite users throw email.The authentication using JWT also.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798697003548732/Capture11.png",
     github: "https://github.com/asemnouri/laflefne",
-    demo: "https://crwn-asem-deploy.herokuapp.com/"
+    demo: "https://crwn-asem-deploy.herokuapp.com/",
+    technologies:["React,","MongoDB,","Express,","NodeJS,","Material-UI"]
+
   },
   {
     title: "Covid-19",
     description: "This project is a React  project preveiws the number of cases of Covid-19, number of deaths,and number if recovered people either globally and for each country.",
     image: "https://cdn.discordapp.com/attachments/762737273128353841/792798678662381618/covid.png",
     github: "https://github.com/asemnouri/Covid-tracker",
-    demo: "https://covid-app-19-asem.herokuapp.com/"
+    demo: "https://covid-app-19-asem.herokuapp.com/",
+    technologies:["React,","Material-UI"]
+
   },
 
 ]

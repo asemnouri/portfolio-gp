@@ -32,7 +32,15 @@ export default function Skills() {
                     >
                       {project.title}
                     </h1>
-
+                    <div style={{fontSize:"19px"}}>
+                      <span>Tecnologies:</span>
+                      {
+                        project.technologies.map(tech=>{
+                          return <span> {tech}  </span>
+                        })
+                      }
+                    </div>
+                    <br></br>
                     <div>{project.description}</div>
                     <div className="button-greeting-div">
                       <Button text="github code" href={project.github} />
