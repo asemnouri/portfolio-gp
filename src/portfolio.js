@@ -8,8 +8,8 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Asem Nouri",
-  title: "Hello, I am Asem", 
-  subTitle: emoji("Full-Stack developer who is really into programming and figuring out everything related to new technologies and how thingswork. I worked on many projects using ReactJS and some React-Native, and for the back-end Django and NodeJS."),
+  title: "Hello, I am Asem Nouri", 
+  subTitle: emoji("A Full-Stack developer who is passionate about programming and figuring out everything related to new technologies and very good at critical-thinking and problem solving."),
   resumeLink: "https://drive.google.com/file/d/1DP51V5SzfS4KmFcRkcUTGnb2zDNMnQRi/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
