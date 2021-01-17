@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62c158471ffc72ea2b4f902d806f6a33",
+    "revision": "bd31bc134c3a4c6f1656689e163b3192",
     "url": "/portfolio-gp/index.html"
   },
   {
-    "revision": "f7295d3d210127c39324",
+    "revision": "07ba927383a126f0f81a",
     "url": "/portfolio-gp/static/css/3.6663bca7.chunk.css"
   },
   {
-    "revision": "bf13fb933e8586c3eed3",
+    "revision": "428cdb65cb99146d0787",
     "url": "/portfolio-gp/static/css/main.d0a4ff63.chunk.css"
   },
   {
-    "revision": "4270005005825b37e611",
-    "url": "/portfolio-gp/static/js/2.6ef7a2db.chunk.js"
+    "revision": "b42523b3a31ce9807f4f",
+    "url": "/portfolio-gp/static/js/2.80c2d6ea.chunk.js"
   },
   {
-    "revision": "f7295d3d210127c39324",
-    "url": "/portfolio-gp/static/js/3.582fb16e.chunk.js"
+    "revision": "07ba927383a126f0f81a",
+    "url": "/portfolio-gp/static/js/3.b71338eb.chunk.js"
   },
   {
-    "revision": "bf13fb933e8586c3eed3",
-    "url": "/portfolio-gp/static/js/main.29cac749.chunk.js"
+    "revision": "428cdb65cb99146d0787",
+    "url": "/portfolio-gp/static/js/main.e7fa1476.chunk.js"
   },
   {
-    "revision": "2167f87a7b1978518603",
-    "url": "/portfolio-gp/static/js/runtime-main.22346ee8.js"
+    "revision": "f2a93929d13d356cd16c",
+    "url": "/portfolio-gp/static/js/runtime-main.45f97ba7.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8fb0e5fd721a02afda190255b5ee649d",
     "url": "/portfolio-gp/static/media/about.8fb0e5fd.png"
+  },
+  {
+    "revision": "933e8c2bd75023204db8525a3523d248",
+    "url": "/portfolio-gp/static/media/acrux.933e8c2b.PNG"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/portfolio-gp/static/media/contactMailDark.51cf7192.svg"
+  },
+  {
+    "revision": "5a1dcd9b1cd575a63fbbea5c4a1fcf94",
+    "url": "/portfolio-gp/static/media/crwn.5a1dcd9b.PNG"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
@@ -74,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83a05b10639d238bd8c5bbab279ab911",
     "url": "/portfolio-gp/static/media/harvardLogo.83a05b10.png"
+  },
+  {
+    "revision": "775c81a8210efaeaf82802416e076e93",
+    "url": "/portfolio-gp/static/media/hotelcom.775c81a8.PNG"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
