@@ -17,9 +17,9 @@ export default function Skills() {
             <div className={isDark ? "dark-mode main" : "main"} id="projects">
               <div className="skills-main-div">
                 <Fade left duration={1000}>
-                  <div className="skills-image-div1" >
+                  <div className="skills-image-div1" style={{display:"flex",alignItems:"center",margin:"0px"}} >
                     <img
-                      style={{ borderRadius: "30px" }}
+                      style={{ borderRadius: "30px",minHeight:"80%" }}
                       alt="Saad Working"
                       src={project.image}
                     ></img>
@@ -36,12 +36,17 @@ export default function Skills() {
                       <span>Tecnologies:</span>
                       {
                         project.technologies.map(tech=>{
-                          return <span> {tech}  </span>
+                          return <span> {tech}   </span>
                         })
                       }
                     </div>
                     <br></br>
-                    <div>{project.description}</div>
+                    <div style={{fontSize:"19px"}}>
+                      <span>Role: {project.Role}</span>
+                      
+                    </div>
+                    <br></br>
+                    <div style={{lineHeight:"25px",fontSize:"18px"}}>{project.description}</div>
                     <div className="button-greeting-div">
                       <Button text="github code" href={project.github} />
                       <Button
