@@ -14,7 +14,7 @@ export default function GithubProfileCard({ prof }) {
             {/* <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div> */}
-            <h2 className="bio-text">Number : +972-599282102</h2>
+            <h2 className="bio-text">Number : (+972)-599-282-102</h2>
             <h2 className="bio-text">Gmail : asemnouri113@gmail.com</h2>
             {/* <h2 className="bio-text">Gmail : asemnouri113@gmail.com</h2> */}
             <div className="location-div">
