@@ -29,11 +29,11 @@ export default function Skills() {
               {skillsSection.title}{" "}
             </h1>
             <p
-              className={
-                isDark
-                  ? "dark-mode subTitle skills-text-subtitle"
-                  : "subTitle skills-text-subtitle"
-              }
+              // className={
+              //   isDark
+              //     ? "dark-mode subTitle skills-text-subtitle"
+              //     : "subTitle skills-text-subtitle"
+              // }
               style={{fontSize:"20px"}}
             >
               {skillsSection.subTitle}
