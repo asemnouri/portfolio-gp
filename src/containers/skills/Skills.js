@@ -34,6 +34,7 @@ export default function Skills() {
                   ? "dark-mode subTitle skills-text-subtitle"
                   : "subTitle skills-text-subtitle"
               }
+              style={{fontSize:"20px"}}
             >
               {skillsSection.subTitle}
             </p>

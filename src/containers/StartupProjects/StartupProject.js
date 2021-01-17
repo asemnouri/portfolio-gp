@@ -48,7 +48,7 @@ export default function Skills() {
                     <br></br>
                     <div style={{lineHeight:"25px",fontSize:"18px"}}>{project.description}</div>
                     <div className="button-greeting-div">
-                      <Button text="github code" href={project.github} />
+                      <Button text="github code" href={project.github} target="blank" />
                       <Button
                         text="Website"
                         newTab={true}

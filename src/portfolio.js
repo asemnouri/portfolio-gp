@@ -32,7 +32,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Tecnologies",
-  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Full Stack Developer Who Wants To Explore Every Tech Stack",
   skills: [
     // emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     // emoji("⚡ Integration of third party services such as Firebase")
