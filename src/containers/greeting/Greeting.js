@@ -28,6 +28,7 @@ export default function Greeting() {
                     ? "dark-mode greeting-text-p"
                     : "greeting-text-p "
                 }
+                style={{textAlign:"justify",textJustify: "inter-word"}}
               >
                 {greeting.subTitle}
               </p>

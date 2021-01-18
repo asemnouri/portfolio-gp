@@ -46,7 +46,7 @@ export default function Skills() {
                       
                     </div>
                     <br></br>
-                    <div style={{lineHeight:"25px",fontSize:"18px"}}>{project.description}</div>
+                    <div style={{lineHeight:"25px",fontSize:"18px",textAlign:"justify",textJustify: "inter-word"}}>{project.description}</div>
                     <div className="button-greeting-div">
                       <Button text="github code" href={project.github} target="blank" />
                       <Button
