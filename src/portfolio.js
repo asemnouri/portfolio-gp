@@ -10,7 +10,7 @@ const greeting = {
   username: "Asem Nouri",
   title: "Hello, I am Asem Nouri", 
   subTitle: emoji("A Full-Stack developer who is passionate about programming and figuring out everything related to new technologies and very good at critical-thinking and problem solving."),
-  resumeLink: "https://drive.google.com/file/d/1DP51V5SzfS4KmFcRkcUTGnb2zDNMnQRi/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1E4Ol1NGC5ux8v-W2paStKizOGdWehDTz/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
