@@ -13,7 +13,7 @@ const greeting = {
   resumeLink: "https://drive.google.com/file/d/1E4Ol1NGC5ux8v-W2paStKizOGdWehDTz/view?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
-
+ 
 // Your Social Media Link
 
 const socialMediaLinks = {
